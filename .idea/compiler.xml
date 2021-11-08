@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="AiZuoMeng-SpringBoot2" />
+        <module name="aizuomeng-parent" />
+        <module name="aizuomeng-system" />
       </profile>
     </annotationProcessing>
   </component>
